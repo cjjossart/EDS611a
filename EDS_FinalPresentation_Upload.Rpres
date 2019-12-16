@@ -45,11 +45,16 @@ More formatting information is available [**here**](https://rpubs.com/SameerMath
  - Solution:
 
 
-[title of presentation] - Christopher
+Uninsured and Infected - Christopher
 ========================================================
- - Question:
- - Technical Challenge:
- - Solution:
+ # Question: What is the relationship that healthcare insurance coverage has on infectious disease mortality?
+ # Technical Challenge: Transforming and manipulating data appropriately for data analysis and visualization
+ # Solution: World Wide Web and books (R for Data Science and Data visualization: A practical introduction)
+
+Uninsured and Infected - Christopher
+========================================================
+ # Figure
+ ![Bivariate Map](BVDIff.png)
 
 
 Trends in Global Trade of Endangered Species - Angus
